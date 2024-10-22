@@ -1,5 +1,25 @@
-## Hi there 👋
+## Welcome to my page
 
+### 👨‍💻 About Me
+
+My name is Desislav and I am currently finishing my ICT & Software Engineering study. My journey so far has included working on various projects utilizing Java, C#, Node.js, and Flutter, among other technologies.
+
+---
+
+### 🛠️ Technologies & Tools
+- **Languages**: Java, C#, C++, JavaScript, TypeScript, Dart, HTML & CSS, React
+- **Frameworks/Libraries**: Flutter, Node.js, ASP.NET Core
+- **Databases**: MSSQL, MySQL, MongoDB
+- **Tools**: Postman, GitHub, Docker
+- **APIs**: RESTful APIs, WebSockets
+- **Mobile Development**: Flutter, Wear OS
+
+---
+
+### 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/deshristov/)
+- [Email](mailto:desislav.hristovv@gmail.com)
+- [Instagram](https://www.instagram.com/k1kohristov)
 <!--
 **destheboss/destheboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
