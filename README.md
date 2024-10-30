@@ -7,8 +7,8 @@ My name is Desislav and I am currently finishing my ICT & Software Engineering s
 ---
 
 ### 🛠️ Technologies & Tools
-- **Languages**: Java, C#, C++, JavaScript, TypeScript, Dart, HTML & CSS, React
-- **Frameworks/Libraries**: Flutter, Node.js, ASP.NET Core
+- **Languages**: Java, C#, C++, JavaScript, TypeScript, Dart, HTML & CSS
+- **Frameworks/Libraries**: React, Flutter, Node.js, ASP.NET Core
 - **Databases**: MSSQL, MySQL, MongoDB
 - **Tools**: Postman, GitHub, Docker
 - **APIs**: RESTful APIs, WebSockets
