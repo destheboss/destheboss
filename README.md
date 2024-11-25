@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-My name is Desislav and I am currently finishing my ICT & Software Engineering study. My journey so far has included working on various projects utilizing Java, C#, Node.js, and Flutter, among other technologies.
+Currently finishing my ICT & Software Engineering study. My journey so far has included working on various projects utilizing Java, C#, Node.js, and Flutter, among other technologies.
 
 ---
 
